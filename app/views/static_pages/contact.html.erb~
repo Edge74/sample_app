@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | Contact Us</title>
+  </head>
+  <body>
+    <h1>Contact Us</h1>
+    <p>
+      The Contact form for the <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a> project will be located on this page.
+    </p>
+  </body>
+</html>
