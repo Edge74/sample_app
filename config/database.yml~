@@ -9,7 +9,7 @@
 #  pool: 5
 #  timeout: 5000
 
-# Use PGSQL 9 March 2013
+# Use PGSQL 9 March 2012
 development:
   adapter: postgresql
   host: localhost
